@@ -17,5 +17,5 @@ My good work!
 
 Thank you for reading!
 
-(To run the program, open the .exe folder and open the main.exe file) 
+(To run the program, download and open the main.exe file) 
 
